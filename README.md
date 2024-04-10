@@ -1,0 +1,1 @@
+# Data-Logger-for-Monitoring-Vibration-in-a-6.3-Kv-Electric-Motor-Based-on-IOT-in-Real-Time
