@@ -1,10 +1,10 @@
 # Data-Logger-for-Monitoring-Vibration-in-a-6.3-Kv-Electric-Motor-Based-on-IOT-in-Real-Time
-Eagle Electronic Layout
+**Eagle Electronic Layout**
   1. Top Layout
 ![Top Layout](https://github.com/AdiGunaDharma/Data-Logger-for-Monitoring-Vibration-in-a-6.3-Kv-Electric-Motor-Based-on-IOT-in-Real-Time/assets/111425085/20571009-99d9-4f0a-928a-e1aa0bfa80e3)
   2. Bottom Layout
 ![Bottom Layout](https://github.com/AdiGunaDharma/Data-Logger-for-Monitoring-Vibration-in-a-6.3-Kv-Electric-Motor-Based-on-IOT-in-Real-Time/assets/111425085/c9240c26-2583-4594-8122-273a26357410)
-Main
+**Main**
   1. Vibration Measurement Points and Vibration Measurement Templates at Jeranjang PLTU
 ![image](https://github.com/AdiGunaDharma/Data-Logger-for-Monitoring-Vibration-in-a-6.3-Kv-Electric-Motor-Based-on-IOT-in-Real-Time/assets/111425085/818658f3-2994-4682-901f-225099ba4007)
   2. Measurement Diagrams on Prototypes
